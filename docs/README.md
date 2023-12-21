@@ -750,7 +750,6 @@ involving sandwiches.
 #### 8. Score on view
 
 We added the score to the view so players can more easily see who is in the lead.
-
 # Screenshots for HW07
 ### game set up with command line:
 ![cmdLine.png](READMEimgs%2Fhw07screenshots%2FcmdLine.png)
