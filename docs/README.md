@@ -22,8 +22,6 @@ discs being flipped to Player A.
 A game is over if neither player can make a move (2 passes in a row).
 After a game is declared over, we can determine the winner by seeing which player has more discs of
 their color on the final board.
-(We haven't been told exactly how a winner is determined yet, but this is how we plan on
-implementing it for now unless told otherwise)
 
 The initial layout of the game should look something like the diagram below.
 
