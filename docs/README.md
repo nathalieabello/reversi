@@ -753,21 +753,21 @@ We added the score to the view so players can more easily see who is in the lead
 
 # Screenshots for HW07
 ### game set up with command line:
-![cmdLine.png](hw07screenshots%2FcmdLine.png)
+![cmdLine.png](READMEimgs%2Fhw07screenshots%2FcmdLine.png)
 ### selected cell
-![selectCell.png](hw07screenshots%2FselectCell.png)
+![selectCell.png](READMEimgs%2Fhw07screenshots%2FselectCell.png)
 ### your turn notification
-![yourTurn.png](hw07screenshots%2FyourTurn.png)
+![yourTurn.png](READMEimgs%2Fhw07screenshots%2FyourTurn.png)
 ### invalid move notification
-![invalidMove.png](hw07screenshots%2FinvalidMove.png)
+![invalidMove.png](READMEimgs%2Fhw07screenshots%2FinvalidMove.png)
 ### cannot play for AI notification
-![cannotPlayForAI.png](hw07screenshots%2FcannotPlayForAI.png)
+![cannotPlayForAI.png](READMEimgs%2Fhw07screenshots%2FcannotPlayForAI.png)
 ### you tied notification
-![youTied.png](hw07screenshots%2FyouTied.png)
+![youTied.png](READMEimgs%2Fhw07screenshots%2FyouTied.png)
 ### you won notification
-![youWin.png](hw07screenshots%2FyouWin.png)
+![youWin.png](READMEimgs%2Fhw07screenshots%2FyouWin.png)
 ### you lost notification
-![youLose.png](hw07screenshots%2FyouLose.png)
+![youLose.png](READMEimgs%2Fhw07screenshots%2FyouLose.png)
 
 
 ## Assignment 9: Flipping the Script – Reversi, part 5
